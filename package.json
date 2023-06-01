@@ -1,0 +1,15 @@
+{
+  "name": "mtroitski",
+  "version": "1.0.2",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "mtroitski": "./index.mjs"
+  },
+  "dependencies": {
+    "boxen": "^7.1.0",
+    "chalk": "^5.2.0",
+    "ora": "^6.3.1"
+  }
+}
